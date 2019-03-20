@@ -1,8 +1,10 @@
 #
- - List danh sách từ bảng egn_match ( tên đội a va b và icon từng đội)
+Yêu cầu:
+- List danh sách từ bảng egn_match ( tên đội a va b và icon từng đội)
 - show math theo tab results nếu đã kết thúc (status = 1)
 - show ra tên tournament ( chữ mờ mờ dưới )
-- tạo api lấy data từ db => request api lấy data => show ra cli  
+- tạo api để lấy dữ liệu  để  đưa ra view
+- sử dụng laravel 
 
 em clone project  ở đây:
  https://github.com/trandung1291/test 
